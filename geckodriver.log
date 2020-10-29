@@ -1,0 +1,1717 @@
+1603871446383	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileKUHqoh"
+1603871480331	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileHJ4ndR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603871485616	Marionette	INFO	Listening on port 21542
+1603871485797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603871487207	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603879352382	Marionette	INFO	Stopped listening on port 21542
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+for this session
+JavaScript error: resource://activity-stream/lib/ToolbarPanelHub.jsm, line 553: TypeError: learnMoreLink is null
+[Parent 27728, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603879350125	Marionette	INFO	Stopped listening on port 21728
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m, line 66: Error: Can't find profile directory.
+1603871708311	Marionette	INFO	Listening on port 21799
+1603871708628	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603879350118	Marionette	INFO	Stopped listening on port 21799
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+sion
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while ca1603879348875	Marionette	INFO	Stopped listening on port 2779
+[Parent 2840, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603879348878	Marionette	INFO	Stopped listening on port 3211
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2245))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603879349298	Marionette	INFO	Stopped listening on port 1723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ directory.
+1603878884698	Marionette	INFO	Listening on port 4784
+1603878884837	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating faJavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1603879348886	Marionette	INFO	Listening on port 5605
+1603879355106	Marionette	INFO	Stopped listening on port 5605
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603879349628	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilepMvEej"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603879356833	Marionette	INFO	Listening on port 5717
+1603879356952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603879418123	Marionette	INFO	Stopped listening on port 5717
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel erroJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603879422718	Marionette	INFO	Listening on port 5917
+1603879423015	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603894538449	Marionette	INFO	Stopped listening on port 5917
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603903813658	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileQVk5W6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603903822490	Marionette	INFO	Listening on port 15921
+1603903822871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603903844699	Marionette	ERROR	[24] No reply from Marionette:Register
+1603904228909	Marionette	INFO	Stopped listening on port 15921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel errJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603904246995	Marionette	INFO	Listening on port 16482
+1603904248197	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603904257393	Marionette	INFO	Stopped listening on port 16482
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603904278758	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofile0h3QBl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603904287027	Marionette	INFO	Listening on port 16617
+1603904287220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.allegrostatic.com/opbox-commons/3.0.0/vendors.js, line 36: Script terminated by timeout at:
+t.unstable_now@https://assets.allegrostatic.com/opbox-commons/3.0.0/vendors.js:36:1516
+t.unstable_runWithPriority@https://assets.allegrostatic.com/opbox-commons/3.0.0/vendors.js:36:3168
+Dl@https://assets.allegrostatic.com/opbox-commons/3.0.0/vendors.js:22:98471
+_n@https://assets.allegrostatic.com/opbox-commons/3.0.0/vendors.js:22:30568
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603905037723	Marionette	INFO	Stopped listening on port 16617
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+RTER_SHUTDOWN is set, shutting down
+1603904845049	Marionette	INFO	Stopped listening on port 17379
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603905016932	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileGvH4zv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603905038041	Marionette	INFO	Listening on port 17690
+1603905038694	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603905071061	Marionette	ERROR	[24] No reply from Marionette:Register
+1603905072045	Marionette	INFO	Stopped listening on port 17690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603905312032	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileemDcGh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603905327134	Marionette	INFO	Listening on port 18131
+1603905327244	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603905345439	Marionette	ERROR	[24] No reply from Marionette:Register
+1603905345824	Marionette	INFO	Stopped listening on port 18131
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603905465703	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileAuGlCh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603905475465	Marionette	INFO	Listening on port 18428
+1603905475867	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603905573217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilekPJUCl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603905581643	Marionette	INFO	Listening on port 18640
+1603905581957	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 22896, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAB0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603906688218	Marionette	INFO	Stopped listening on port 18640
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1603905763674	Marionette	ERROR	[24] No reply from Marionette:Register
+1603905764138	Marionette	INFO	Stopped listening on port 18914
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603905773449	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileJf9GnI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603905790881	Marionette	INFO	Listening on port 19042
+1603905791445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603905805645	Marionette	ERROR	[24] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603906687402	Marionette	INFO	Stopped listening on port 19042
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+03905933510	Marionette	INFO	Listening on port 19295
+1603905933710	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603905954880	Marionette	INFO	Stopped listening on port 19295
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603906066425	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileBCNjb5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603906077251	Marionette	INFO	Listening on port 19608
+1603906077541	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 27744, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Parent 27744, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603906688759	Marionette	INFO	Stopped listening on port 19608
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+raction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603906447329	Marionette	ERROR	[24] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 5852, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1603906686239	Marionette	INFO	Stopped listening on port 20092
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1603906653260	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10248, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603906689050	Marionette	ERROR	[24] No reply from Marionette:Register
+1603906689773	Marionette	INFO	Stopped listening on port 20493
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 10248, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603906693343	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileU3ZUwP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603906703015	Marionette	INFO	Listening on port 20679
+1603906703486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603906721952	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603906726897	Marionette	ERROR	[24] No reply from Marionette:Register
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603911716288	Marionette	INFO	Stopped listening on port 20679
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 27584, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603907382984	Marionette	ERROR	[24] No reply from Marionette:Register
+1603907385131	Marionette	INFO	Stopped listening on port 21461
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1603907557754	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileQoWb38"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603907566680	Marionette	INFO	Listening on port 21828
+1603907566815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603907591417	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603907601148	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:409:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource:///modules/WindowsPreviewPerTab.jsm, line 341: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITaskbarPreviewCallback.done]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603911712863	Marionette	INFO	Stopped listening on port 21828
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 28676, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+16:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603908186584	Marionette	ERROR	[24] No reply from Marionette:Register
+1603908187300	Marionette	INFO	Stopped listening on port 22655
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603909853896	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileQ3xF1D"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603909871593	Marionette	INFO	Listening on port 24606
+1603909872014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603909969882	Marionette	ERROR	[24] No reply from Marionette:Register
+1603913504091	Marionette	INFO	Stopped listening on port 24606
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+03909996092	Marionette	INFO	Listening on port 24859
+1603909996627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603910023200	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603910038206	Marionette	ERROR	[24] No reply from Marionette:Register
+1603910040185	Marionette	INFO	Stopped listening on port 24859
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 426: Error: OS.File has been shut down. Rejecting post to stat
+1603910162587	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileXxmI2o"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603910175291	Marionette	INFO	Listening on port 25169
+1603910175727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603910196282	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603910203400	Marionette	INFO	Stopped listening on port 25169
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603910355767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileSSy5h8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603910368210	Marionette	INFO	Listening on port 25502
+1603910369174	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603910405045	Marionette	INFO	Stopped listening on port 25502
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603910519856	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilefsUoWD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603910534786	Marionette	INFO	Listening on port 25738
+1603910535348	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603910549629	Marionette	INFO	Stopped listening on port 25738
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603910561941	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilevwZZu9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603910580068	Marionette	INFO	Listening on port 25825
+1603910580523	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603911713903	Marionette	INFO	Stopped listening on port 25825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 20024, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603911716788	Marionette	INFO	Stopped listening on port 27008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 11060, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603911721253	Marionette	ERROR	[24] No reply from Marionette:Register
+1603911721653	Marionette	INFO	Stopped listening on port 27203
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603911748998	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilengV7cy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603911758680	Marionette	INFO	Listening on port 27362
+1603911759002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603911783235	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+[Parent 28912, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603912013584	Marionette	INFO	Stopped listening on port 27362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannotA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 33060, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1603912015339	Marionette	INFO	Stopped listening on port 27592
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603911970937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912001624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603912018565	Marionette	ERROR	[24] No reply from Marionette:Register
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603912019041	Marionette	INFO	Stopped listening on port 27814
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1603912161405	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilemNsakC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603912169815	Marionette	INFO	Listening on port 28163
+1603912170485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912188509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603912510520	Marionette	INFO	Stopped listening on port 28163
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e	INFO	Listening on port 28484
+1603912344746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912372098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: https://assets.allegrostatic.com/opbox-web/vendors-2ba9263a.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603912389016	Marionette	INFO	Stopped listening on port 28484
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603912479497	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilesufzPN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603912488670	Marionette	INFO	Listening on port 28788
+1603912489112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912517246	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603912538679	Marionette	ERROR	[24] No reply from Marionette:Register
+1603912697775	Marionette	INFO	Stopped listening on port 28788
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e	INFO	Listening on port 29035
+1603912582113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912603674	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603912608112	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603912701056	Marionette	INFO	Stopped listening on port 29035
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603912698119	Marionette	INFO	Listening on port 29264
+1603912698223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912718505	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603912849349	Marionette	INFO	Stopped listening on port 29264
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e	INFO	Listening on port 29527
+1603912848244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603912867607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603913497612	Marionette	INFO	Stopped listening on port 29527
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilekjjXmn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913128539	Marionette	INFO	Listening on port 29945
+1603913128569	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603913164390	Marionette	INFO	Stopped listening on port 29945
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913179149	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileFrTrds"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913193873	Marionette	INFO	Listening on port 30138
+1603913193892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603913224554	Marionette	INFO	Stopped listening on port 30138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913362660	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileC03i7h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913370768	Marionette	INFO	Listening on port 30446
+1603913370849	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12184, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1603913398500	Marionette	INFO	Stopped listening on port 30446
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12184, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1603913403980	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilevVGH68"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913417449	Marionette	INFO	Listening on port 30594
+1603913417934	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1603913434565	Marionette	ERROR	[24] No reply from Marionette:Register
+1603913435059	Marionette	INFO	Stopped listening on port 30594
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913439858	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilerxhHlS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913455337	Marionette	INFO	Listening on port 30735
+1603913455843	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603913492720	Marionette	ERROR	[24] No reply from Marionette:Register
+1603913496814	Marionette	INFO	Stopped listening on port 30735
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913514219	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileZeJasg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913522819	Marionette	INFO	Listening on port 30926
+1603913523559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603913543814	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603913751352	Marionette	INFO	Stopped listening on port 30926
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913663294	Marionette	INFO	Listening on port 31206
+1603913663534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603913681356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603913752609	Marionette	INFO	Stopped listening on port 31206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 31422
+1603913747120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603913769986	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603913774628	Marionette	INFO	Stopped listening on port 31422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913786928	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilerCxv90"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913798753	Marionette	INFO	Listening on port 31608
+1603913799083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603913824405	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603913840483	Marionette	INFO	Stopped listening on port 31608
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603913931749	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileqe6jCZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603913936660	Marionette	INFO	Listening on port 31870
+1603913936771	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603955155527	Marionette	INFO	Stopped listening on port 31870
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918995439/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603918995439/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919377889/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919377889/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915573798/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603915573798/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915361676/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603915361676/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915425729/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603915425729/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915578801/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603915578801/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919424978/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919424978/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918886359/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603918886359/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919350754/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919350754/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915613834/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603915613834/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919433983/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919433983/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919399900/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919399900/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918999443/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603918999443/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918942401/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603918942401/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919390896/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919390896/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919409968/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919409968/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+SourceActor threw an exception: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919058494/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:547:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 547, column: 16
+console.error: (new Error("Failed to fetch https://allegro.hit.gemius.pl/_1603919058494/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.", "resource://devtools/shared/DevToolsUtils.js", 547))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918995439/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919377889/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915573798/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915361676/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915425729/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915578801/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919424978/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918886359/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919350754/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603915613834/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919433983/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919399900/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918999443/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603918942401/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919390896/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919409968/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 547: Error: Failed to fetch https://allegro.hit.gemius.pl/_1603919058494/redot.js?l=109&id=.WcwDSOFU5ZsoLDt7DRTv8QMPziK6iNsrOJZDqDbANT.07&et=smpsonar&hsrc=0&extra=_ASF%3D40&eventid=1603914328&fr=1&tz=-60&fv=-&href=https%3A%2F%2Fallegro.pl%2Fkategoria%2Fsmartfony-i-telefony-komorkowe-apple-48978%3Fstring%3Diphone%252011%26bmatch%3Dbaseline-product-cl-eyesa2-engag-dict45-ele-1-5-1023%26kolor%3Dczarny&ref=&screen=1920x1080r1000&col=24&window=1284x895&ltime=258&lsdata=-SETERR&fpdata=lSRr6UWRP1t1JvWqkxLBVY2x5xvJ.dBXi7OT24x97Ob.T7&vis=1. Code 2147500036.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603964926009	Marionette	INFO	Stopped listening on port 32367
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ening on port 1412
+1603964832424	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603964851293	Marionette	ERROR	[24] No reply from Marionette:Register
+1603964851719	Marionette	INFO	Stopped listening on port 1412
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603964859431	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofile21TztH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603964866758	Marionette	INFO	Listening on port 1550
+1603964867281	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603964926626	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileX65LPd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603964932663	Marionette	INFO	Listening on port 1712
+1603964933055	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603964953674	Marionette	ERROR	[24] No reply from Marionette:Register
+1603964954194	Marionette	INFO	Stopped listening on port 1712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603969318459	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileTxjKTd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603969328724	Marionette	INFO	Listening on port 16262
+1603969329177	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603970023573	Marionette	INFO	Stopped listening on port 16262
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603970018914	Marionette	INFO	Stopped listening on port 16452
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lues are reducers."
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1603970008194	Marionette	INFO	Stopped listening on port 16676
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+1603969955898	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+1603970007142	Marionette	INFO	Stopped listening on port 16885
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603970011976	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilelF0fY5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603970032711	Marionette	INFO	Listening on port 16988
+1603970033180	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603970098594	Marionette	INFO	Stopped listening on port 16988
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603970302157	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilepWbkNq"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603970311188	Marionette	INFO	Listening on port 17321
+1603970311304	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1603973108505	Marionette	INFO	Stopped listening on port 17321
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e	INFO	Listening on port 17520
+1603970400847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603973107084	Marionette	INFO	Stopped listening on port 17520
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+"-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileeLq50a"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603970469213	Marionette	INFO	Listening on port 17698
+1603970469714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603970488663	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603970494768	Marionette	ERROR	[24] No reply from Marionette:Register
+1603973112624	Marionette	INFO	Stopped listening on port 17698
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5297: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+e	INFO	Listening on port 18798
+1603971796352	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603971846506	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603973125708	Marionette	INFO	Stopped listening on port 18798
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+stening on port 19250
+1603972156834	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603972207644	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603972220961	Marionette	INFO	Stopped listening on port 19250
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603973109357	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileHtqZFV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603973118480	Marionette	INFO	Listening on port 19654
+1603973118737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603973135692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603973141469	Marionette	ERROR	[24] No reply from Marionette:Register
+1603973142157	Marionette	INFO	Stopped listening on port 19654
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603973418995	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilecvXL5H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603973425132	Marionette	INFO	Listening on port 19873
+1603973425165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603973472426	Marionette	ERROR	[24] No reply from Marionette:Register
+1603973859341	Marionette	INFO	Stopped listening on port 19873
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ce://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603973527434	Marionette	INFO	Listening on port 20013
+1603973527887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.allegrostatic.com/opbox-web/opbox-dfb4eb37.es6.js, line 1: TypeError: e is undefined
+1603973542485	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1603973858635	Marionette	INFO	Stopped listening on port 20013
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603973952093	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileBySXKh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603973958129	Marionette	INFO	Listening on port 20331
+1603973958160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603973988659	Marionette	ERROR	[24] No reply from Marionette:Register
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1603975168427	Marionette	INFO	Stopped listening on port 20331
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012B,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1603975031742	Marionette	INFO	Stopped listening on port 20930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603975173272	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileDEO64h"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603975180543	Marionette	INFO	Listening on port 21070
+1603975181030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603975198428	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603975203705	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/UpdateTimerManager.jsm, line 352: TypeError: setting getter-only property "gLogEnabled"
+JavaScript error: resource://gre/modules/ModulesPing.jsm, line 70: NS_ERROR_XPC_JAVASCRIPT_ERROR_WJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603975241396	Marionette	INFO	Listening on port 21209
+1603975241444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603975255893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 28048, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1603975548866	Marionette	INFO	Stopped listening on port 21209
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603975410640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1603977488422	Marionette	INFO	Stopped listening on port 21699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+83	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603975518893	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1603975546218	Marionette	INFO	Stopped listening on port 21854
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603976999055	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofileLQ6ete"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603977006406	Marionette	INFO	Listening on port 22438
+1603977006509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1603977028549	Marionette	ERROR	[24] No reply from Marionette:Register
+1603977487110	Marionette	INFO	Stopped listening on port 22438
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ce://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603977202277	Marionette	INFO	Listening on port 22582
+1603977202507	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603977221453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603977485042	Marionette	INFO	Stopped listening on port 22582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1603977602881	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matejko\\AppData\\Local\\Temp\\rust_mozprofilelfh5px"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1603977610418	Marionette	INFO	Listening on port 22857
+1603977610528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1603977629498	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1603977636738	Marionette	ERROR	[24] No reply from Marionette:Register
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1603978792170	Marionette	INFO	Stopped listening on port 22857
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
